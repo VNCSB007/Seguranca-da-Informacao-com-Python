@@ -20,17 +20,17 @@ Abraham Maslow criou a *Pirâmide de Maslow*, elencando da base ao topo quais s�
 
 **Princípios da Segurança da Informação** se baseia em 7 princípios: Integridade, Confidencialidade, Disponibilidade, Identificação, Autenticação, Autorização e Não Repúdio
 
-Na integridade, que a geração dos dados, ou o seu descarte, não seja vazado publicamente ou que não consiga ser alterado indevidamente
+Integridade, que a geração dos dados, ou o seu descarte, não seja vazado publicamente ou que não consiga ser alterado indevidamente
 
-Na confidencialidade, temos o sigilo somente para aquele que deve ter acesso à essa informação
+Confidencialidade, temos o sigilo somente para aquele que deve ter acesso à essa informação
 
 Disponibilidade -  que o dado esteja lá quando for requisitado
 
 Identificação: uma pessoa identificada pelo crachá, uma empresa reconhecida pelo símbolo, entre outras palavras, quando uma informação ou ação ocorrer, ela não pode ser assim feita de forma anônima
 
-Autenticação - afinal, como confirmar que a pessoa existe dentro do sistema da empresa temos como autentica-lá? Token, hash, senha, biometria, enfim. Que seja importante para ela se identificar naquele sistema para obter certos dados
+Autenticação - afinal, para confirmar que a pessoa existe dentro do sistema da empresa precisamos autentica-lá, mas como? Token, hash, senha, biometria, enfim. Que seja importante para ela se identificar naquele sistema para obter certos dados
 
-autorização - mesmo que ela exista, ela pode entrar? pode ir para qualquer lugar ou há restrições? quais os níveis dos crachás? (pensar nos níveis de autorização do FBI ou do Pentágono)
+Autorização - mesmo que ela exista, ela pode entrar em qualquer lugar? Há restrições? quais os níveis dos crachás? (pensar nos níveis de autorização do FBI ou do Pentágono)
 
-Não Repúdio - é proibida a omissão das ações: qualquer manipulação, mesmo que seja pouca coisa, precisa de relatório e monitoramento constante. Há todo um acompanhamento das ações de quem estiver manipulando os dados
+Não Repúdio - é proibida a omissão das ações: qualquer manipulação, mesmo que seja pouca coisa, precisa de relatório e monitoramento constante de todos que interagirem com as informações das empresas. Há todo um acompanhamento das ações de quem estiver manipulando os dados
 
